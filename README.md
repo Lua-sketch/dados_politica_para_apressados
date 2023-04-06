@@ -1,5 +1,8 @@
 # Dados - Política para Apressados
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Lua-sketch/dados_politica_para_apressados/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Lua-sketch/dados_politica_para_apressados/blob/main/README.en.md)
+
 ## Política para Apressados
 Política para Apressados é um site que facilita a navegação de dados da Câmara dos Deputados e do Senado. [Você pode acessar o site aqui](https://lua-sketch.github.io/politica_para_apressados/) e, caso queira ver o código usado para criá-lo, [você pode acessar o repositório correspondente aqui](https://github.com/Lua-sketch/politica_para_apressados).
 
